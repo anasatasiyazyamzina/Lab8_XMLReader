@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <toy id="1" name="Rabbit" type="soft">
+    <price>100</price>
+    <age>10</age>
+    <instock>10</instock>
+    <dataoforder>10.02.2019</dataoforder>
+    <provider>Shop1</provider>
+  </toy>
+  <toy id="2" name="WRapGod" type="Robot">
+    <price>1000</price>
+    <age>15</age>
+    <instock>1</instock>
+    <dataoforder>12.01.2020</dataoforder>
+    <provider>Shop2</provider>
+  </toy>
+  <toy id="4" name="Puppy" type="Soft">
+    <price>500</price>
+    <age>10</age>
+    <instock>25000</instock>
+    <dataoforder>21.03.2020</dataoforder>
+    <provider>Shop1</provider>
+  </toy>
+</library>
