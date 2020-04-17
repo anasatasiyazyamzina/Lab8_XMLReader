@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <toy id="1" name="Rabbit" type="soft">
+    <price>100</price>
+    <age>10</age>
+    <instock>10</instock>
+    <dataoforder>10.02.2019</dataoforder>
+    <provider>Shop1</provider>
+  </toy>
+  <toy id="2" name="Musa Cat" type="Toy">
+    <price>1200</price>
+    <age>4</age>
+    <instock>12000</instock>
+    <dataoforder>12.01.2020</dataoforder>
+    <provider>Shop2</provider>
+  </toy>
+  <toy id="3" name="Baby Girl" type="doll">
+    <price>120</price>
+    <age>7</age>
+    <instock>120</instock>
+    <dataoforder>01.01.2019</dataoforder>
+    <provider>Shop3</provider>
+  </toy>
+  <toy id="4" name="Baby Boy" type="Doll">
+    <price>120</price>
+    <age>7</age>
+    <instock>120</instock>
+    <dataoforder>01.01.2019</dataoforder>
+    <provider>Shop3</provider>
+  </toy>
+  <toy id="5" name="Ula" type="plastic">
+    <price>12</price>
+    <age>0</age>
+    <instock>12000</instock>
+    <dataoforder>01.01.2020</dataoforder>
+    <provider>Shop4</provider>
+  </toy>
+  <toy id="6" name="Mask" type="plastic">
+    <price>120</price>
+    <age>0</age>
+    <instock>20000</instock>
+    <dataoforder>01.09.2019</dataoforder>
+    <provider>Shop1</provider>
+  </toy>
+  <toy id="7" name="Darling" type="doll">
+    <price>1200</price>
+    <age>15</age>
+    <instock>567</instock>
+    <dataoforder>25.03.2019</dataoforder>
+    <provider>Shop2</provider>
+  </toy>
+  <toy id="8" name="Kanye West" type="Doll">
+    <price>12000</price>
+    <age>13</age>
+    <instock>120</instock>
+    <dataoforder>01.01.2020</dataoforder>
+    <provider>SKIMS</provider>
+  </toy>
+  <toy id="9" name="SkimS" type="cloth">
+    <price>1200</price>
+    <age>12</age>
+    <instock>1200</instock>
+    <dataoforder>09.08.2019</dataoforder>
+    <provider>SKIMS</provider>
+  </toy>
+  <toy id="10" name="Kortney Kardashian" type="Doll">
+    <price>1200</price>
+    <age>13</age>
+    <instock>12</instock>
+    <dataoforder>01.01.2019</dataoforder>
+    <provider>SKIMS</provider>
+  </toy>
+</library>
